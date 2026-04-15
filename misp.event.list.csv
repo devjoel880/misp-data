@@ -1,0 +1,14 @@
+uuid,event_id,category,type,value,comment,to_ids,date,object_relation,attribute_tag,object_uuid,object_name,object_meta_category
+"5a69e33e-c4d8-40e4-95d5-4ea302de0b81",1316,"External analysis","link","https://blog.newskysecurity.com/masuta-satori-creators-second-botnet-weaponizes-a-new-router-exploit-2ddc51cc52a7","",0,1516888894,"","","","",""
+"5a69e357-429c-4316-8060-4ae502de0b81",1316,"External analysis","text","Since the inception of the Mirai code leak, many botnets have been seen in the IoT threat landscape. While some of them are clearly Mirai carbon copies, others have added new attack methods, often taking the route of exploits to perform an attack. We analyzed two variants of an IoT botnet named â€œMasutaâ€ where we observed the involvement of a well-known IoT threat actor and discovered a router exploit being weaponized for the first time in a botnet campaign.","",0,1516888919,"","","","",""
+"5a69e86e-d27c-403a-b897-4c5f02de0b81",1316,"Network activity","url","http://purenetworks.com/HNAP1/GetDeviceSettings","",1,1516890222,"","","","",""
+"5a69e899-1048-4d87-b715-47f002de0b81",1316,"External analysis","link","http://www.devttys0.com/2015/04/hacking-the-d-link-dir-890l/","Hacking the D-Link DIR-890L - Hence in simple words, whatever code is written after GetDeviceSettings will be executed.",0,1516890265,"","","","",""
+"5a69e9d9-f204-4cfc-8b59-492e02de0b81",1316,"External analysis","link","https://www.exploit-db.com/exploits/38722/","",0,1516890585,"","","","",""
+"5a69e9fa-c15c-4663-af99-4d0d02de0b81",1316,"External analysis","link","https://pastebin.com/WhGBivrU","(UPnP) HNAP Exploit Loader | By; LiGhT",0,1516890618,"","","","",""
+"5a69eb37-ae04-447b-a4ef-401402de0b81",1316,"Artifacts dropped","pattern-in-memory","/bin/busybox MASUTA","",1,1776182429,"","	malware_classification:malware-category=""Botnet"",feed-source:firehol,tlp:clear","","",""
+"5a69e390-ee44-4042-a56d-4d4302de0b81",1316,"Network activity","domain","nexusiotsolutions.net","",1,1516888976,"domain","","5a69e390-b5f0-42c1-a638-446502de0b81","whois","network"
+"5a69e391-c430-4537-99fc-4f9e02de0b81",1316,"Attribution","whois-registrant-email","nexuszeta1337@gmail.com","",1,1776183445,"registrant-email","feed-source:firehol","5a69e390-b5f0-42c1-a638-446502de0b81","whois","network"
+"5a69e3c4-df00-4ebd-8214-4f0102de0b81",1316,"Network activity","text","A","",0,1516889028,"rrtype","","5a69e3c4-c604-4e3a-b1ed-4b1a02de0b81","passive-dns","network"
+"5a69e3c5-6274-4308-99bf-488e02de0b81",1316,"Network activity","text","93.174.93.63","",0,1516889029,"rrname","","5a69e3c4-c604-4e3a-b1ed-4b1a02de0b81","passive-dns","network"
+"5a69e3c6-1d74-4d92-b433-4a1e02de0b81",1316,"Other","text","n.cf0.pw","",0,1516889030,"rdata","","5a69e3c4-c604-4e3a-b1ed-4b1a02de0b81","passive-dns","network"
+
